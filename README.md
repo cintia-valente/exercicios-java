@@ -7,5 +7,5 @@ Exercícios básicos e de orientação a objetos implementados em Java.
 
 <ul>
   <li>Em uma IDE entre na pasta onde está o arquivo <b>.java</b>.</li>
-  <li>Execute clicando em "Run" <b></b></li>
+  <li>Execute clicando em <b>Run</b></li>
 </ul>
